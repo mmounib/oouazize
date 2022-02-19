@@ -1,6 +1,6 @@
 # 42_network_badge
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&email=hide&login=oouazize)](https://github.com/mohouyizme/1337-readme)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/oouazize?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 <a href="https://github.com/oouazize?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oouazize&theme=dark"/>
